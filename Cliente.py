@@ -5,7 +5,7 @@ class Cliente:
          self._telefone = fone
 
 #metodo get
-def get_nome(self, nome):
+def get_nome(self):
      return self._nome
 
 #metodo set
